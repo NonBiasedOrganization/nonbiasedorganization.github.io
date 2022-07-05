@@ -1,3 +1,6 @@
+* {
+  @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+}
 body {
   background-color: #FFFAE9;
   margin: 0;
@@ -39,6 +42,7 @@ body {
 
 #motto {
   color: green;
+  font-family: 'Varela Round', sans-serif;
 }
 
 #content {
