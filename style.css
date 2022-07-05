@@ -43,9 +43,22 @@ body {
 
 #content {
   padding: 1.5em;
-  display: flexbox;
 }
 
 .text-box {
   width: 75%;
+  display: flexbox;
+}
+
+.text-box div{
+  display: flex;
+  justify-content: center;
+}
+
+#learnmore {
+  border-radius: 2em;
+  background-color: #00db00;
+  align-self: flex-start;
+  text-align: center;
+  padding: 1em 1.5em;
 }
