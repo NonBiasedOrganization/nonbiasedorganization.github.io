@@ -36,3 +36,16 @@ body {
   max-height: 100%;
   max-width: auto;
 }
+
+#motto {
+  color: green;
+}
+
+#content {
+  padding: 1.5em;
+  display: flexbox;
+}
+
+.text-box {
+  width: 75%;
+}
